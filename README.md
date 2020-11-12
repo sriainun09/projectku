@@ -1,0 +1,2 @@
+# projectku
+game baru ku
